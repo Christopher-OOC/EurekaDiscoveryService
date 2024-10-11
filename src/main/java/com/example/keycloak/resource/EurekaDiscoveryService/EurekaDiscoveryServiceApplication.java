@@ -10,6 +10,7 @@ public class EurekaDiscoveryServiceApplication {
 
 	//heyeh
 	//heyeh
+	//heyeh
 
 	public static void main(String[] args) {
 		SpringApplication.run(EurekaDiscoveryServiceApplication.class, args);
